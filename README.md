@@ -1,4 +1,4 @@
-# X-ray AI Agent Demo  
+# X-ray AI Agent  
 FastAPI + Pinecone RAG + Spectral Analysis
 
 This demo implements an AI assistant for X-ray spectroscopy using:
